@@ -6,7 +6,7 @@ This is an empty IG
 ### Publication
 This ImplementationGuide is published in the following locations:
 
-Continuous Build: __http://build.fhir.org/ig/openhie/fhir-ig-empty/branches/main/index.html__  
+Continuous Build: __http://costateixeira.github.io/myob__  
 Canonical / permanent URL: 
 <br> </br>
 
